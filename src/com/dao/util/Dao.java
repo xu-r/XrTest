@@ -10,7 +10,7 @@ import java.util.Map;
  *
  */
 public interface Dao {
-	/**
+	/**测试一下
 	 * 新增
 	 * 
 	 * @param sql
