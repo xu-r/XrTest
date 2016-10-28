@@ -11,7 +11,7 @@ import org.apache.commons.dbcp.BasicDataSourceFactory;
 /**
 * @ClassName: DbcpPool
 * @Description: Dbcp连接池工具类
-* @author: xr
+* @author: xr1
 *
 */ 
 public class DbcpPool {
